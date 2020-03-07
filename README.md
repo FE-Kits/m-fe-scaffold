@@ -43,6 +43,14 @@ Cli Toolkits for Web Development & Deploy on Kubernetes，微前端实践中沉�
 
 - [m-fe-libs](https://github.com/FE-Kits/m-fe-libs)：Common Libs for Micro-Frontend Apps.
 
+- [m-fe-rm](https://github.com/FE-Kits/m-fe-rm): 基于 React & TS & Webpack & APICloud 提供快速移动端应用开发的能力
+
+- [m-fe-taro](https://github.com/wx-chevalier/m-fe-taro): 基于 Taro & TS 的多端小程序开发模板。
+
+- [m-fe-scaffold](https://github.com/FE-Kits/m-fe-scaffold/): Cli Toolkits for Web Development & Deploy on Kubernetes，微前端实践中沉淀的一系列脚手架工具。
+
+- [m-fe-libs](https://github.com/FE-Kits/m-fe-libs): Micro-Frontend boilerplate with React & TypeScript & Webpack, for complicated cooperative applications. | 微前端项目模板
+
 --
 
 - [react-snippets](https://github.com/FE-Kits/react-snippets): React Snippets(.ts/.tsx), about design patterns/techniques used while developing with React and TypeScript.
@@ -122,6 +130,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists): 📚 Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI. 💫 ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选。
 
 - [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books): :books: Awesome CS Books/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀计算机科学与技术领域相关的书籍归档。
+
+## Motivation & Credits
+
+- [taro-cli](https://github.com/NervJS/taro/tree/2.x/packages/taro-cli)
 
 ## Copyright & More | 延伸阅读
 
