@@ -131,9 +131,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books): :books: Awesome CS Books/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀计算机科学与技术领域相关的书籍归档。
 
-## Motivation & Credits
-
 - [taro-cli](https://github.com/NervJS/taro/tree/2.x/packages/taro-cli)
+
+- [degit #Project#](https://github.com/Rich-Harris/degit): degit makes copies of git repositories.
 
 ## Copyright & More | 延伸阅读
 
