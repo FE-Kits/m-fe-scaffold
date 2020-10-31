@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/FE-Kits/m-fe-scaffold">
+  <a href="https://github.com/wx-chevalier/m-fe-scaffold">
     <img src="https://s2.ax1x.com/2020/02/10/15SdPS.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,14 +16,14 @@
   <p align="center">
     Web 前端开发脚手架
     <br />
-    <a href="https://github.com/FE-Kits/m-fe-scaffold"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wx-chevalier/m-fe-scaffold"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/FE-Kits/m-fe-scaffold">View Demo</a>
+    <a href="https://github.com/wx-chevalier/m-fe-scaffold">View Demo</a>
     ·
-    <a href="https://github.com/FE-Kits/m-fe-scaffold/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier/m-fe-scaffold/issues">Report Bug</a>
     ·
-    <a href="https://github.com/FE-Kits/m-fe-scaffold/issues">Request Feature</a>
+    <a href="https://github.com/wx-chevalier/m-fe-scaffold/issues">Request Feature</a>
   </p>
 </p>
 
@@ -35,31 +35,31 @@ Cli Toolkits for Web Development & Deploy on Kubernetes，微前端实践中沉�
 
 ## Nav | 关联项目
 
-- [m-fe-configs](https://github.com/FE-Kits/m-fe-configs)：Common Dev Configs(ESLint, Prettier, Husky, etc.) for Micro-Frontend Apps
+- [m-fe-configs](https://github.com/wx-chevalier/m-fe-configs)：Common Dev Configs(ESLint, Prettier, Husky, etc.) for Micro-Frontend Apps
 
-- [m-fe-rtw](https://github.com/FE-Kits/m-fe-rtw): Micro-Frontend boilerplate with React & TypeScript & Webpack, for complicated cooperative applications. | 微前端项目模板
+- [m-fe-rtw](https://github.com/wx-chevalier/m-fe-rtw): Micro-Frontend boilerplate with React & TypeScript & Webpack, for complicated cooperative applications. | 微前端项目模板
 
-- [m-fe-vtw](https://github.com/FE-Kits/m-fe-vtw): Micro-Frontend boilerplate with Vue & TypeScript & Webpack, for complicated cooperative applications. | 微前端项目模板
+- [m-fe-vtw](https://github.com/wx-chevalier/m-fe-vtw): Micro-Frontend boilerplate with Vue & TypeScript & Webpack, for complicated cooperative applications. | 微前端项目模板
 
-- [m-fe-libs](https://github.com/FE-Kits/m-fe-libs)：Common Libs for Micro-Frontend Apps.
+- [m-fe-libs](https://github.com/wx-chevalier/m-fe-libs)：Common Libs for Micro-Frontend Apps.
 
-- [m-fe-rm](https://github.com/FE-Kits/m-fe-rm): 基于 React & TS & Webpack & APICloud 提供快速移动端应用开发的能力
+- [m-fe-rm](https://github.com/wx-chevalier/m-fe-rm): 基于 React & TS & Webpack & APICloud 提供快速移动端应用开发的能力
 
 - [m-fe-taro](https://github.com/wx-chevalier/m-fe-taro): 基于 Taro & TS 的多端小程序开发模板。
 
-- [m-fe-scaffold](https://github.com/FE-Kits/m-fe-scaffold/): Cli Toolkits for Web Development & Deploy on Kubernetes，微前端实践中沉淀的一系列脚手架工具。
+- [m-fe-scaffold](https://github.com/wx-chevalier/m-fe-scaffold/): Cli Toolkits for Web Development & Deploy on Kubernetes，微前端实践中沉淀的一系列脚手架工具。
 
-- [m-fe-libs](https://github.com/FE-Kits/m-fe-libs): Micro-Frontend boilerplate with React & TypeScript & Webpack, for complicated cooperative applications. | 微前端项目模板
+- [m-fe-libs](https://github.com/wx-chevalier/m-fe-libs): Micro-Frontend boilerplate with React & TypeScript & Webpack, for complicated cooperative applications. | 微前端项目模板
 
 --
 
-- [react-snippets](https://github.com/FE-Kits/react-snippets): React Snippets(.ts/.tsx), about design patterns/techniques used while developing with React and TypeScript.
+- [react-snippets](https://github.com/wx-chevalier/react-snippets): React Snippets(.ts/.tsx), about design patterns/techniques used while developing with React and TypeScript.
 
-- [vue-snippets](https://github.com/FE-Kits/vue-snippets): Vue Snippets(.js/.ts), about design patterns/techniques used while developing with Vue and JavaScript/TypeScript.
+- [vue-snippets](https://github.com/wx-chevalier/vue-snippets): Vue Snippets(.js/.ts), about design patterns/techniques used while developing with Vue and JavaScript/TypeScript.
 
-- [fractal-components](https://github.com/FE-Kits/fractal-components): Massive Fractal Components in Several Libraries(Vanilla, React, Vue, Weapp), for building your great apps easily again
+- [fractal-components](https://github.com/wx-chevalier/fractal-components): Massive Fractal Components in Several Libraries(Vanilla, React, Vue, Weapp), for building your great apps easily again
 
-- [Legoble](https://github.com/FE-Kits/Legoble): Build your apps like stacking Lego blocks 💫 总想自己实现一款可视化配置的动态应用构建工具，动态表单、动态布局、动态报告、动态规则、动态选择、动态流程
+- [Legoble](https://github.com/wx-chevalier/Legoble): Build your apps like stacking Lego blocks 💫 总想自己实现一款可视化配置的动态应用构建工具，动态表单、动态布局、动态报告、动态规则、动态选择、动态流程
 
 # Getting Started
 
@@ -80,7 +80,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/FE-Kits/m-fe-scaffold.git
+git clone https://github.com/wx-chevalier/m-fe-scaffold.git
 ```
 
 2. Install NPM packages
@@ -103,7 +103,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/FE-Kits/m-fe-scaffold/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/wx-chevalier/m-fe-scaffold/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -144,13 +144,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/FE-Kits/m-fe-scaffold.svg?style=flat-square
-[contributors-url]: https://github.com/FE-Kits/m-fe-scaffold/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/FE-Kits/m-fe-scaffold.svg?style=flat-square
-[forks-url]: https://github.com/FE-Kits/m-fe-scaffold/network/members
-[stars-shield]: https://img.shields.io/github/stars/FE-Kits/m-fe-scaffold.svg?style=flat-square
-[stars-url]: https://github.com/FE-Kits/m-fe-scaffold/stargazers
-[issues-shield]: https://img.shields.io/github/issues/FE-Kits/m-fe-scaffold.svg?style=flat-square
-[issues-url]: https://github.com/FE-Kits/m-fe-scaffold/issues
-[license-shield]: https://img.shields.io/github/license/FE-Kits/m-fe-scaffold.svg?style=flat-square
-[license-url]: https://github.com/FE-Kits/m-fe-scaffold/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/m-fe-scaffold.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/m-fe-scaffold/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/m-fe-scaffold.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/m-fe-scaffold/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/m-fe-scaffold.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/m-fe-scaffold/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/m-fe-scaffold.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/m-fe-scaffold/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/m-fe-scaffold.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/m-fe-scaffold/blob/master/LICENSE.txt
